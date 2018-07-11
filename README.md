@@ -1,4 +1,4 @@
-## WAScan - WAScan - Web Application Scanner
+## WAScan - Web Application Scanner
 
 ![screen](https://raw.githubusercontent.com/m4ll0k/WAScan/master/screens/screen1.png)
 ![screen2](https://raw.githubusercontent.com/m4ll0k/WAScan/master/screens/screen2.png)
